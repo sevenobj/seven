@@ -1,0 +1,102 @@
+body{
+    font-family: "Microsoft YaHei";
+    background: #F5F6FA;
+}
+*{
+    list-style: none;
+    padding:0;
+    margin:0;
+    border:0;
+}
+a{
+    text-decoration: none;
+    color: #494747;
+}
+/*可就业岗位*/
+.fxq-kjy-con{
+    width:7.02rem;
+    margin:0 auto;
+    background: #fff;
+    padding-top: 0.1rem;
+}
+.fxq-kjy-con .fxq-kjy-t{
+    height:0.56rem;
+    line-height: 0.56rem;
+    margin:0 0.2rem 0 0.2rem;
+}
+.fxq-kjy-con .fxq-kjy-t .fxq-kjyy-block{
+    width:0.06rem;
+    height:0.22rem;
+    background: #01b5ff;
+    margin-top:0.17rem;
+    float: left;
+}
+.fxq-clear{
+    clear: both;
+}
+.fxq-kjy-con .fxq-kjy-t .fxq-kjy-txt{
+    width:6.4rem;
+    border-bottom: 0.01rem dashed #444444;
+    float: right;
+    font-size: 0.24rem;
+}
+.fxq-kjy-list{
+    margin-left:0.4rem;
+    padding-bottom: 0.4rem;
+}
+.fxq-kjy-list .fxq-kjy-one{
+    height:0.56rem;
+    margin-top: 0.2rem;
+}
+.fxq-kjy-list .fxq-kjy-one img{
+    width:0.56rem;
+    height:0.56rem;
+    vertical-align: middle;
+    float: left;
+}
+.fxq-kjy-list .fxq-kjy-one .fxq-kjy-onet{
+    float: left;
+    margin-left: 0.2rem;
+}
+.fxq-kjy-list .fxq-kjy-one .fxq-kjy-onet .fxq-kjy-onet1{
+    font-size: 0.24rem;
+    color: #01b5ff;
+}
+.fxq-kjy-list .fxq-kjy-one .fxq-kjy-onet .fxq-kjy-onet2{
+    font-size: 0.2rem;
+    color: #3e3a39;
+}
+.fxq-jyxy-box{
+    width:6.62rem;
+    margin:0 auto;
+    height:0.5rem;
+    /*background: #000;*/
+}
+.fxq-jyxy-box .fxq-jyxy-left{
+    width:0.24rem;
+    height:3.4rem;
+    background: #000;
+    float: left;
+}
+.fxq-jyxy-list{
+    width:6.38rem;
+    float: left;
+    font-size: 0.24rem;
+}
+.fxq-jyxy-one{
+    height:0.65rem;
+    line-height: 0.65rem;
+    display: flex;
+    justify-content:space-around;
+}
+.fxq-jyxy-t1{
+    width:1rem;
+}
+.fxq-jyxy-t2{
+    color: #ffa201;
+    width:1.8rem;
+}
+.fxq-jyxy-t3{
+    width:2.7rem;
+}
+

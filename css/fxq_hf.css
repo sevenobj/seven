@@ -1,0 +1,56 @@
+body{
+	font-family: "Microsoft YaHei";
+}
+*{
+	list-style: none;
+	padding:0;
+	margin:0;
+	border:0;
+}
+/*头部*/
+.fxq-head{
+	width: 7.5rem;
+	height: auto;
+}
+.fxq-t{
+	width: 100%;
+	height: 0.9rem;
+	background: #0278BD;
+	display: flex;
+	justify-content:center;
+	line-height: 0.9rem;
+}
+.fxq-t img{
+	width:0.73rem;
+	height:0.69rem;
+	vertical-align: middle;
+	margin-top: 0.1rem;
+	margin-right:0.1rem;
+}
+.fxq-t span{
+	font-size: 0.36rem;
+	color: #fff;
+}
+
+/*脚部*/
+.fxq-footer{
+	width:100%;
+	height:1rem;
+	color: #666666;
+}
+.fxq-foot{
+	width:7.02rem;
+	margin:0 auto;
+	font-size: 0.2rem;
+	text-align: center;
+	line-height: 0.4rem;
+}
+/*首页之外的页面固定banner图片*/
+.fxq-banner-pic{
+	width:100%;
+	height:2.8rem;
+}
+.fxq-banner-pic img{
+	width:100%;
+	height:auto;
+}

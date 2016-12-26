@@ -1,0 +1,227 @@
+body{
+	background:#F5F6FA;
+	font-family: "Microsoft Yahei";
+	font-size: 0.24rem;
+}
+a{
+	text-decoration: none;
+	color:#000;
+}
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+	padding:0;
+}
+.szh-contain{
+	width:100%;
+	padding-bottom: 1rem;
+}
+
+/**********轮播start*******/
+.fxq-banner{
+	width:100%;
+	height:4.2rem;
+}
+.fxq-banner .swiper-slide{
+	overflow: hidden;
+}
+.fxq-banner img{
+	width:auto;
+	height:100%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%; left: 50%;
+}
+/**********轮播end*******/
+
+/*************图标start*******/
+.szh-container{
+	padding-top: 0.27rem;
+	width:7.02rem;
+    margin:0 auto;
+}
+.szh-block{
+	display: flex;
+	flex-direction: row;
+}
+.szh-icon{
+	width:1.56rem;
+	height:2.25rem;
+	margin-bottom: 0.2rem;
+	margin-right: 0.3rem;
+}
+.szh-iimg{
+	width:1.56rem;
+	height:1.56rem;
+	background:#fff;
+	border-radius: 0.2rem;
+	box-shadow: 0 0 1px 1px #ECEDF1;
+	text-align: center;
+	line-height: 1.56rem;
+}
+.szh-iimg img{
+	width:0.96rem;
+	margin-top: 0.3rem;
+}
+.szh-ititle{
+	width:100%;
+	height: 0.47rem;
+	font-size: 0.24rem;
+	text-align: center;
+	line-height: 0.47rem;
+}
+
+/*************图标end*******/
+
+
+/************服务体系start*******/
+.szh-server{
+	width:100%;
+	height:4.30rem;
+	background:#fff;
+}
+.szh-server-title{
+	width:100%;
+	height:0.65rem;
+	text-align: center;
+	line-height: 0.65rem;
+	color:#0277BC;
+}
+.szh-shu{
+	width:0.02rem;
+	height:100%;
+	background-color: #E8E8E8;
+}
+.szh-heng{
+	width:100%;
+	height: 0.02rem;
+	background-color: #E8E8E8;
+}
+.szh-sbox{
+	width:3.7rem;
+	height:2.2rem;
+}
+.szh-ssbox{
+	width:2.49rem;
+	height: 1.40rem;
+}
+.szh-scontent{
+	width:1.85rem;
+	float: left;
+	padding-left: 0.2rem;
+	padding-top: 0.4rem;
+}
+.szh-sbig{
+	width:100%;
+	height: 0.43rem;
+	color:#000;
+	font-size: 0.24rem;
+}
+.szh-ssmall{
+	width:100%;
+	font-size: 0.24rem;
+	color:#999;
+}
+.szh-block1{
+  height:2.2rem;
+  overflow: hidden;	
+}
+.szh-block2{
+	height: 1.40rem;
+}
+.szh-simg{
+	padding-top: 0.4rem;
+	width:1.40rem;
+	float: left;
+	padding-left: 0.1rem;
+	padding-right: 0.1rem;
+}
+.szh-ssbox .szh-simg{
+	width:0.7rem;
+} 
+.szh-sbox img{
+	width:1.33rem;
+}
+.szh-ssbox img{
+	width:0.62rem;
+}
+.szh-sscontent{
+	width:1.52rem;
+	float: left;
+	padding-top: 0.4rem;
+}
+/************服务体系end*******/
+
+/**********固定定位底部start*******/
+.szh-bottom{
+	width:100%;
+	height:1rem;
+	background:#F5F6FA;
+	position:fixed;
+	bottom:0;
+	left:0;
+	z-index: 9;
+}
+.szh-tab{
+	width:33.33333%;
+	height:100%;
+	padding-top:0.1rem;
+}
+.szh-tabinner{
+	padding-top: 0.15rem;
+	width:2.37rem;
+	height:0.8rem;
+	margin:0 auto;
+}
+.szh-tabinner{
+   padding:0.2rem 0.35rem;
+   width:1.60rem;
+   height:0.34rem;
+}
+.szh-bicon{
+	width:0.34rem;
+	height:0.34rem;
+	float: left;
+	background-size:0.34rem 0.34rem;
+}
+.szh-bicon1{
+	background:url(../images/szh-search1.png);
+	background-size:0.34rem 0.34rem;
+}
+.szh-bicon2{
+	background:url(../images/szh-call1.png);
+	background-size:0.34rem 0.34rem;
+}
+.szh-bicon3{
+	background:url(../images/szh-xinxi1.png);
+	background-size:0.34rem 0.34rem;
+}
+.szh-icontent{
+	width:1.25rem;
+	height:100%;
+	float: left;
+	line-height: 0.34rem;
+	text-align: center;
+}
+.szh-active .szh-tabinner{
+	background:#FF7E00;
+	color:#fff;
+	border-radius: 0.2rem;
+	box-shadow: 0 0 2px 2px #F6D6BE;
+}
+.szh-active .szh-icontent{
+	color:#fff;
+
+}
+.szh-active .szh-bicon1{
+	background:url(../images/szh-search.png);
+	background-size:0.34rem 0.34rem;
+}
+.szh-active .szh-bicon2{
+	background:url(../images/szh-call.png);
+	background-size:0.34rem 0.34rem;
+}
+.szh-active .szh-bicon3{
+	background:url(../images/szh-xinxi.png);
+	background-size:0.34rem 0.34rem;
+}
+/**********固定定位底部end*******/

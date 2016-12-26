@@ -1,0 +1,126 @@
+body{
+    font-family: "微软雅黑";
+    font-size: 0.24rem;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.fxl_outbox{
+    width: 7.5rem;
+    height: auto;
+    background: #F5F6FA;
+}
+.fxl_inbox{
+    width: 7.02rem;
+    margin: 0 auto;
+}
+.fxl_navlist{
+    width:100%;
+    height:0.82rem;
+    background: #F5F6FA;
+    font-size: 0.24rem;
+    color: #494747;
+    line-height: 0.82rem;
+}
+.fxl_f{
+    margin-right: 0.23rem;
+}
+.fxl_z{
+    margin-right: 0.23rem;
+}
+.fxl-content{
+    width: 100%;
+    margin: 0 auto;
+}
+.fxl_gaishu{
+    background: #fff;
+}
+.fxl_nav{
+    width: 100%;
+    height: 0.67rem;
+    margin-bottom: 10px;
+}
+.fxl_line{
+    display: inline-block;
+    float: left;
+    margin-top: 0.46rem;
+    margin-left: 0.22rem;
+    /*margin-right: 0.2rem;*/
+    width: 0.08rem;
+    height: 0.4rem;
+    background: url("../images/fxl_line.png");
+}
+.fxl_des{
+    width: 6.2rem;
+    height: 100%;
+    float:left;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    margin-left: 0.28rem;
+    border-bottom: 1px dashed #666666;
+}
+.fxl_gs{
+    margin-right: 0.21rem;
+    font-size: 0.24rem;
+    line-height: 0.67rem;
+    font-weight: bold;
+    color: #444444;
+}
+.fxl_neirong{
+    width: 6.2rem;
+    margin-left: 0.58rem;
+    font-size: 0.24rem;
+    color: #666666;
+    padding-top: 0.2rem;
+    padding-bottom: 0.5rem;
+    line-height: 20px;
+
+}
+.fxl_culture{
+    width: 100%;
+    height: 3.2rem;
+    background: #fff;
+    margin-top: 0.2rem;
+}
+.fxl_p{
+    width: 100%;
+    height: 1.53rem;
+    background: #fff;
+    display: flex;
+    justify-content:space-between;
+}
+.fxl_zhu{
+    float: left;
+    width: 33.333%;
+    background: url(../images/fxl_zhuanzhu.png) no-repeat center center;
+    vertical-align: middle;
+    background-size: contain;
+}
+.fxl_ji{
+    float: left;
+    width: 33.3333%;
+    background: url(../images/fxl_jizhi.png) no-repeat center center;
+    background-size: contain;
+}
+.fxl_kou{
+    float: left;
+    width: 33.3333%;
+    background: url(../images/fxl_koubei.png) no-repeat center center;
+    background-size: contain;
+}
+.fxl_company{
+    margin-top: 0.2rem;
+    width: 100%;
+    height:auto;
+    background: #fff;
+    margin-bottom: 0.25rem;
+}
+.fxl_baoming{
+    width: 33.333%;
+    height: 2.2rem;
+    margin: 0 auto;
+    background: url(../images/fxl_baoming.png) no-repeat center center;
+    background-size: contain;
+    padding-bottom: 0.6rem;
+}

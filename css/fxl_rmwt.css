@@ -1,0 +1,110 @@
+body{
+    font-family: "微软雅黑";
+    font-size: 0.24rem;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.fxl_outbox{
+    width: 7.5rem;
+    height: auto;
+    background: #F5F6FA;
+}
+.fxl_inbox{
+    width: 7.02rem;
+    margin: 0 auto;
+}
+.fxl_navlist{
+    width:100%;
+    height:0.82rem;
+    background: #F5F6FA;
+    font-size: 0.24rem;
+    color: #494747;
+    line-height: 0.82rem;
+}
+.fxl_f{
+    margin-right: 0.23rem;
+}
+.fxl_z{
+    margin-right: 0.23rem;
+}
+.fxl-content{
+    width: 100%;
+    margin: 0 auto;
+}
+.fxl_gaishu{
+    background: #fff;
+}
+.fxl_nav{
+    width: 100%;
+    height: 0.67rem;
+    margin-bottom: 10px;
+}
+.fxl_line{
+    display: inline-block;
+    float: left;
+    margin-top: 0.46rem;
+    margin-left: 0.22rem;
+    width: 0.08rem;
+    height: 0.4rem;
+    background: url("../images/fxl_line.png");
+}
+.fxl_des{
+    width: 6.2rem;
+    height: 100%;
+    float:left;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+    margin-left: 0.28rem;
+
+}
+.fxl_gs{
+    margin-right: 0.21rem;
+    font-size: 0.24rem;
+    line-height: 0.67rem;
+    font-weight: bold;
+    color: #444444;
+}
+.fxl_remen{
+    width: 100%;
+    height: auto;
+    overflow: auto;
+    zoom: 1;
+}
+.fxl_re{
+    display: inline-block;
+    float: left;
+    margin-left: 0.22rem;
+    /*margin-right: 0.2rem;*/
+    width: 0.4rem;
+    height: 0.4rem;
+    background: url("../images/fxl_rmwt.png") no-repeat center center;
+}
+.fxl_xiangq{
+    width: 6.2rem;
+    height: auto;
+    float:left;
+    margin-bottom: 0.3rem;
+    line-height: 20px;
+    font-size: 0.24rem;
+    border-bottom: 1px dashed #999999;
+}
+.fxl_all{
+    display: block;
+    margin: 0 auto;
+    width: 1.4rem;
+    line-height: 30px;
+    text-decoration: none;
+    color: #FF9D2A;
+    font-size: 0.24rem;
+}
+.fxl_fanye{
+    width: 100%;
+    height: 3.2rem;
+    background: #fff;
+    margin-top: 0.2rem;
+}

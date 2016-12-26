@@ -1,0 +1,191 @@
+body{
+    font-family: "Microsoft YaHei";
+    background: #F5F6FA;
+}
+*{
+    list-style: none;
+    padding:0;
+    margin:0;
+    border:0;
+}
+a{
+    text-decoration: none;
+    color: #494747;
+}
+/*金牌师资*/
+.fxq-jpsz{
+    width:7.02rem;
+    height:auto;
+    margin:0 auto;
+    font-size: 0.22rem;
+}
+/*金牌师资面包屑导航*/
+.fxq-jpsz-nav{
+    height:0.65rem;
+    margin-top: 0.1rem;
+    line-height: 0.65rem;
+}
+.fxq-jpsz-nav li{
+    float: left;
+}
+.fxq-jpsz-nav li a{
+    font-size: 0.22rem;
+}
+/*金牌师资分类选项卡*/
+.fxq-jpsz-navs{
+    width:100%;
+    height:0.8rem;
+    border:0.01rem solid #01b5ff;
+    border-radius:0.1rem;
+    display: flex;
+    justify-content:space-around;
+}
+.fxq-jpsz-navs li{
+    width:33.33333%;
+    line-height: 0.82rem;
+    position: relative;
+}
+.fxq-jpsz-navs li a{
+    display: block;
+    width:100%;
+    height:0.8rem;
+    font-size: 0.26rem;
+    color: #000;
+    text-align: center;
+}
+.fxq-jpsz-navs li .fxq-jpsz-bg{
+    width:100%;
+    height:0.94rem;
+    font-size: 0.26rem;
+    position: absolute;
+    top:0;
+    left:0;
+}
+/*金牌师资列表*/
+.fxq-jpsz-list{
+    width:100%;
+    margin-top: 0.24rem;
+}
+/*金牌师资每位教师信息*/
+.fxq-jpsz-one{
+    height:2.7rem;
+    background: #fff;
+    margin-bottom: 0.12rem;
+}
+/*教师图片*/
+.fxq-jpsz-one .fxq-jpsz-img{
+    display: inline-block;
+    width:2.3rem;
+    height:2.3rem;
+    margin:0.2rem;
+    border-radius:0.1rem;
+    overflow: hidden;
+}
+.fxq-jpsz-one .fxq-jpsz-img img{
+    width:100%;
+    height:auto;
+}
+/*教师信息*/
+.fxq-jpsz-txt{
+    width:4rem;
+    float: right;
+    margin:0.3rem 0.2rem 0.3rem 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 0.24rem;
+}
+.fxq-jpsz-txt li{
+    float: left;
+}
+.fxq-jpsz-name{
+    width:1.74rem;
+    height:1rem;
+    line-height: 0.44rem;
+}
+.fxq-jpsz-n{
+    font-size: 0.26rem;
+    border-bottom: 0.01rem dashed #666;
+}
+.fxq-jpsz-p{
+    color: #01b5ff;
+}
+.fxq-jpsz-more a{
+    color: #ff9300;
+    line-height: 0.44rem;
+}
+.fxq-jpsz-con{
+    width:3.1rem;
+    line-height: 0.35rem;
+    color: #666666;
+}
+/*免费体验*/
+.fxq-mfty{
+    width:7.02rem;
+    height:auto;
+    margin:0 auto;
+    font-size: 0.22rem;
+}
+/*免费体验面包屑导航*/
+.fxq-mfty-nav{
+    height:0.65rem;
+    margin-top: 0.1rem;
+    line-height: 0.65rem;
+}
+.fxq-mfty-nav li{
+    float: left;
+}
+.fxq-mfty-nav li a{
+    font-size: 0.22rem;
+}
+/*免费体验内容*/
+.fxq-mfty-con{
+    width:100%;
+    height:auto;
+    background: #fff;
+    padding-top: 0.1rem;
+}
+.fxq-mfty-con .fxq-mfty-t{
+    height:0.56rem;
+    line-height: 0.56rem;
+    margin:0 0.2rem 0.15rem 0.2rem;
+}
+.fxq-mfty-con .fxq-mfty-t .fxq-mfty-block{
+    width:0.06rem;
+    height:0.22rem;
+    background: #01b5ff;
+    margin-top:0.17rem;
+    float: left;
+}
+.fxq-clear{
+    clear: both;
+}
+.fxq-mfty-con .fxq-mfty-t .fxq-mfty-txt{
+    width:6.4rem;
+    border-bottom: 0.01rem dashed #444444;
+    float: right;
+    font-size: 0.24rem;
+}
+.fxq-mfty-ones{
+    margin-left: 0.4rem;
+}
+.fxq-mfty-ones p{
+    line-height: 0.4rem;
+    font-size: 0.24rem;
+    color: #666666;
+    margin-bottom: 0.4rem;
+}
+.fxq-mfty-box{
+    width:100%;
+    height:3.6rem;
+    background: #666666;
+}
+.fxq-mfty-con .fxq-mfty-line{
+    width:6.45rem;
+    border-bottom: 0.01rem dashed #666666;
+    margin: 0.3rem 0 0.3rem 0.4rem;
+}
+.fxq-mfty-con .fxq-mfty-share{
+    height:0.5rem;
+    margin:0 0.2rem 0.25rem;
+}

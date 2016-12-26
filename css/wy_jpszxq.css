@@ -1,0 +1,156 @@
+body{
+    font-family: "微软雅黑";
+}
+.wy-box{
+    width: 7.5rem;
+    height:auto ;
+    background:#F5F6FA;
+}
+/*标题*/
+.wy-title{
+    width: 7.02rem;
+    height: 0.8rem;
+    margin: 0 auto;
+    font-size: 0.22rem;
+    line-height: 0.8rem;
+}
+/*标题结束*/
+/*****内容****/
+.wy-content{
+    width: 7.02rem;
+    height: 10rem;
+    margin: 0 auto;
+}
+/*内容 上部*/
+.wy-content-top{
+    width: 7.02rem;
+    height: 4.1rem;
+    margin: 0 auto;
+    background: #fff;
+}
+.wy-content-top-top{
+    width: 7.02rem;
+    height: 0.7rem;
+    font-size: 0.24rem;
+    line-height: 0.7rem;
+}
+.wy-content-font1{
+    width: 0.04rem;
+    height: 0.2rem;
+    display: inline-block;
+    background: #01B5FF;
+    margin-left: 0.2rem;
+}
+.wy-content-xian{
+    width: 6.4rem;
+    border-bottom: 1px #999999 dashed;
+    margin: 0 auto;
+}
+.wy-content-top-bottom{
+    width: 7.02rem;
+    height: 3.4rem;
+    margin: 0 auto;
+}
+.wy-content-top-bottom-box{
+    width: 6.4rem;
+    height: 3.4rem;
+    margin: 0 auto;
+}
+.wy-content-top-bottom-img{
+    display: inline-block;
+    width: 2.8rem;
+    height: 2.8rem;
+    float: left;
+    margin-top: 0.3rem;
+}
+.wy-content-top-bottom-right{
+    width: 2.8rem;
+    height: 2.8rem;
+    margin-left: 0.2rem;
+    float: left;
+    margin-top: 0.3rem;
+}
+.wy-content-top-bottom-FONT{
+    margin-top: 0.2rem;
+    height: 0.5rem;
+    line-height: 0.5rem;
+}
+.wy-content-top-bottom-font2{
+    font-size: 0.22rem;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    float: left;
+    color: #01B5FF;
+    margin-left: 0.1rem;
+}
+
+.wy-content-top-bottom-font1{
+    font-size: 0.28rem;
+    font-weight: bold;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    float: left;
+}
+.wy-content-top-bottom-FONT2{
+    margin-top: 0.2rem;
+    height: 0.5rem;
+    line-height: 0.5rem;
+}
+.wy-content-top-bottom-font3{
+    font-size: 0.24rem;
+    font-weight: bold;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    float: left;
+}
+.wy-content-top-bottom-font4{
+    font-size: 0.24rem;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    float: left;
+}
+
+.wy-content-top-bottom-FONT3{
+    height: 0.5rem;
+    line-height: 0.5rem;
+}
+.wy-content-top-bottom-FONT4{
+    height: 0.5rem;
+    line-height: 0.5rem;
+    margin-top: 0.4rem;
+}
+.wy-content-top-bottom-font5{
+    font-size: 0.24rem;
+    font-weight: bold;
+    height: 0.5rem;
+    line-height: 0.5rem;
+    float: left;
+    margin: 0 0.1rem;
+}
+/*内容  上部结束*/
+/*内容 下部*/
+.wy-content-bottom{
+    width: 7.02rem;
+    height: 4.4rem;
+    margin: 0 auto;
+    font-size: 0.24rem;
+    line-height: 4.4rem;
+    background: #fff;
+}
+.wy-content-bottom-top{
+    width: 7.02rem;
+    height: 0.7rem;
+    margin: 0 auto;
+    font-size: 0.24rem;
+    line-height: 0.7rem;
+    margin-top: 0.2rem;
+}
+.wy-content-bottom-bottom{
+    width: 6.4rem;
+    height: auto;
+    padding:0.2rem 0.4rem;
+    font-size: 0.24rem;
+    line-height: 0.5rem;
+}
+/*内容 下部结束*/
+/******内容结束******/
