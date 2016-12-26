@@ -1,0 +1,166 @@
+body{
+    background:#F5F6FA;
+    font-family: "微软雅黑";
+}
+ul,li{
+    list-style: none;
+    padding: 0;margin: 0;
+}
+a{
+    text-decoration: none;
+    color:#000;
+}
+.jyw-cookie{
+    font-size: 0.22rem;
+    padding-left: 0.24rem;
+    line-height: 0.8rem;
+}
+.jyw-cookie .sy{
+    color: #000;
+}
+.jyw-main{
+    width: 100%;
+    height: auto;
+}
+.jyw-main .inner{
+    width: 7.02rem;
+    margin: 0 auto;
+    background: white;
+    font-size: 0.24rem;
+    color:#666;
+}
+.jyw-main .inner .title{
+    font-weight: bold;
+    color: #000;
+    line-height: 0.7rem;
+}
+.jyw-main .inner .title:before{
+    content: "";
+    display: block;
+    width: 2px;
+    height:0.2rem;
+    background: #01B5FF;
+    float: left;
+    margin:0.25rem 0.2rem;
+}
+.jyw-main .inner .line{
+    width:6.4rem ;
+    height: 0;
+    border-bottom: 1px dashed #666;
+    margin-left: 0.4rem;
+}
+.jyw-main .inner p{
+    padding-left:0.4rem;
+    line-height: 1.6;
+}
+.jyw-main .inner img{
+    width: 7.02rem;
+    height: 3.6rem;
+    border: 0;
+}
+.jyw-main .inner .share{
+    width: 7.02rem;
+    height: 0.9rem;
+    padding-left: 0.2rem;
+    box-sizing: border-box;
+}
+.jyw-main .inner .share .kong{
+    width: 100%;
+    height: 0.2rem;
+}
+.jyw-main .inner .share .bdsharebuttonbox a{
+    width: 0.4rem;
+    height: 0.4rem;
+    float: left;
+    padding: 0;
+    margin: 6px 6px 0 6px;
+}
+.jyw-main .inner .share .bdsharebuttonbox a img{
+    width: 0.4rem;
+    height: 0.4rem;
+}
+.jyw-main .inner .share .zan{
+    width: 0.4rem;
+    height: 0.4rem;
+    background-image: url("../images/jyw-zan.png");
+    background-size: cover;
+    float: right;
+}
+.jyw-main .inner .share .down{
+    width: 0.4rem;
+    height: 0.4rem;
+    background-image: url("../images/jyw-down.png");
+    background-size: cover;
+    float: right;
+    margin: 0 0.2rem;
+}
+.jyw-main .inner .share .bdsharebuttonbox span{
+    float: left;
+    line-height: 0.6rem;
+}
+.jyw-updown{
+    clear: both;
+    width: 7.02rem;
+    height: 1.2rem;
+    font-size: 0.24rem;
+    margin: 0 auto;
+    padding-left: 0.2rem;
+    line-height: 0.4rem;
+}
+.jyw-updown .kong{
+    height: 0.2rem;
+}
+.jyw-updown a{
+    color: #01B5FF;
+}
+.jyw-question{
+    width: 100%;
+    height: auto;
+}
+.jyw-question .inner{
+    width: 7.02rem;
+    margin:0 auto;
+    font-size: 0.24rem;
+    background: white;
+}
+.jyw-question .inner .title{
+    font-weight: bold;
+    color: #000;
+    line-height: 0.7rem;
+}
+.jyw-question .inner .title:before{
+    content: "";
+    display: block;
+    width: 2px;
+    height:0.2rem;
+    background: #01B5FF;
+    float: left;
+    margin:0.25rem 0.2rem;
+}
+.jyw-question .inner .line{
+    width: 6.4rem;
+    height:0;
+    border-bottom:1px dashed #666;
+    margin-left: 0.4rem;
+    margin-bottom: 0.2rem;
+}
+.jyw-question .inner ul li{
+    width: 100%;
+    height: 0.6rem;
+    line-height: 0.6rem;
+}
+.jyw-question .inner ul li .style{
+    width: 0.4rem;
+    height: 0.6rem;
+    background-image: url(../images/jyw-style.png);
+    background-size: 0.2rem 0.2rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    float: left;
+}
+.jyw-question .inner ul li:hover{
+    color:#01B5FF;
+}
+.jyw-question .inner ul li:before{
+
+}
