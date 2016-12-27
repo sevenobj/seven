@@ -18,6 +18,7 @@ a{
     height:auto;
     margin:0 auto;
     font-size: 0.22rem;
+    margin-bottom: 0.2rem;
 }
 /*金牌师资面包屑导航*/
 .fxq-jpsz-nav{
@@ -186,6 +187,42 @@ a{
     margin: 0.3rem 0 0.3rem 0.4rem;
 }
 .fxq-mfty-con .fxq-mfty-share{
-    height:0.5rem;
     margin:0 0.2rem 0.25rem;
+}
+/*免费体检分享*/
+.fxq-mfty-share{
+    height: 0.9rem;
+    box-sizing: border-box;
+}
+.fxq-mfty-share .bdsharebuttonbox a{
+    width: 0.4rem;
+    height: 0.4rem;
+    float: left;
+    padding: 0;
+    margin: 6px 6px 0 6px;
+}
+.fxq-mfty-share .bdsharebuttonbox a img{
+    width: 0.4rem;
+    height: 0.4rem;
+}
+.fxq-mfty-share .zan{
+    width: 0.4rem;
+    height: 0.4rem;
+    background-image: url("../images/jyw-zan.png");
+    background-size: cover;
+    float: right;
+    margin-top: 0.1rem;
+}
+.fxq-mfty-share .down{
+    width: 0.4rem;
+    height: 0.4rem;
+    background-image: url("../images/jyw-down.png");
+    background-size: cover;
+    float: right;
+    margin: 0 0.2rem;
+    margin-top: 0.1rem;
+}
+.fxq-mfty-share .bdsharebuttonbox span{
+    float: left;
+    line-height: 0.6rem;
 }
