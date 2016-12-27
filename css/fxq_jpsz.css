@@ -212,6 +212,7 @@ a{
     background-size: cover;
     float: right;
     margin-top: 0.1rem;
+    margin-right: 0.2rem;
 }
 .fxq-mfty-share .down{
     width: 0.4rem;
@@ -219,7 +220,6 @@ a{
     background-image: url("../images/jyw-down.png");
     background-size: cover;
     float: right;
-    margin: 0 0.2rem;
     margin-top: 0.1rem;
 }
 .fxq-mfty-share .bdsharebuttonbox span{
