@@ -97,11 +97,15 @@ body{
     line-height: 0.5rem;
 }
 .wy-content-top-bottom-font3{
+    display: inline-block;
+    width:0.9rem;
     font-size: 0.24rem;
     font-weight: bold;
     height: 0.5rem;
     line-height: 0.5rem;
     float: left;
+    text-align: justify;
+    text-align-last: justify;
 }
 .wy-content-top-bottom-font4{
     font-size: 0.24rem;
