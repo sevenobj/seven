@@ -1,0 +1,324 @@
+ul,li,p{
+	padding: 0;
+	margin:0;
+	list-style: none;
+}
+body{
+	background: #f9f9fc;
+	font-family: "Microsoft YaHei";
+}
+a{
+    text-decoration: none;
+    color: #494747;
+}
+.fxs-qd-dh{
+	width: 7.5rem;
+	height: 0.8rem;
+	background: #f5f6fa;
+}
+.fxs-qd-indh{
+	width: 7rem;
+	height: 0.8rem;
+	font-size: 0.22rem;
+	line-height: 0.8rem;
+	margin: 0 auto;
+}
+.fxs-qd-dh p{
+	float: left;
+	font-weight:500;
+}
+.fxs-qd-one{
+	width: 7rem;
+	height: 2.3rem;
+	margin: 0 auto;
+	background: #fff;
+	margin-bottom: 0.2rem;
+}
+.fxs-qd-one-item{
+	width: 1.75rem;
+	height: 2.3rem;
+	float: left;
+}
+.fxs-qd-one-tb{
+	width: 1.23rem;
+	height: 1.23rem;
+	margin-left: 0.27rem;
+	margin-top: 0.27rem;
+	margin-bottom: 0.27rem;
+}
+.fxs-qd-one-one{
+	background: url(../images/fxs_images/fxs_qd1.png) 0rem 0.02rem  no-repeat;
+	background-size:5rem 1.2rem;
+}
+.fxs-qd-one-two{
+	background: url(../images/fxs_images/fxs_qd1.png)-1.22rem 0.02rem no-repeat;
+	background-size:5rem 1.2rem;
+}
+.fxs-qd-one-three{
+	background: url(../images/fxs_images/fxs_qd1.png)-2.46rem 0.02rem no-repeat;
+	background-size:5rem 1.2rem;
+}
+.fxs-qd-one-fore{
+	background: url(../images/fxs_images/fxs_qd1.png)-3.68rem 0.02rem no-repeat;
+	background-size:5rem 1.2rem;
+}
+.fxs-qd-one-item p{
+	width: 1.75rem;
+	height: 0.3rem;
+	font-size: 0.24rem;
+	text-align: center;
+}
+.fxs-qd-two{
+	width: 7rem;
+	height: 4.6rem;
+	background: #fff;
+	margin-bottom: 0.2rem;
+	margin: 0 auto;
+}
+.fxs-qd-two-top{
+	width: 7rem;
+	height: 0.5rem;
+}
+.fxs-qd-two-top1{
+	width: 0.06rem;
+	height: 0.2rem;
+	background: #5cb8e1;
+	margin: 0.15rem 0.2rem;
+	float: left;
+}
+.fxs-qd-two-top p{
+	font-size: 0.24rem;
+	font-weight: bold;
+	display: block;
+	width: 6.12rem;
+	float: left;
+	margin-top:0.14rem;
+	padding-bottom: 0.14rem;
+	border-bottom: 1px dashed #ccc;
+}
+.fxs-qd-two-top{
+	color: #5cb8e1;
+}
+.fxs-qd-two-bottom{
+	width:6.12rem;
+	height: 3.7rem;
+	margin: 0.3rem auto;
+}
+.fxs-qd-two-bottom{
+	font-size: 0.24rem;
+	color: #666666;
+	line-height: 0.34rem;
+}
+.fxs-qd-two-bottomt{
+	color:#01b5ff;
+	font-weight: bold;
+}
+.fxs-qd-three{
+	margin: 0 auto;
+	width: 7rem;
+	height: 5.76rem;
+	background: #fff;
+	margin-top: 0.2rem;
+}
+.fxs-qd-two-top1p{
+	color: #444444;
+}
+#main canvas{
+	width: 6rem;
+	height: 6rem;
+}
+#main{
+	margin-top: 1rem;
+}
+
+/*可就业岗位*/
+.fxq-kjy-con{
+    width:7.02rem;
+    margin:0 auto;
+    background: #fff;
+    padding-top: 0.1rem;
+}
+.fxq-kjy-con .fxq-kjy-t{
+    height:0.56rem;
+    line-height: 0.56rem;
+    margin:0 0.2rem 0 0.2rem;
+    margin-top: 0.2rem;
+}
+.fxq-kjy-con .fxq-kjy-t .fxq-kjyy-block{
+    width:0.06rem;
+    height:0.22rem;
+    background: #01b5ff;
+    margin-top:0.17rem;
+    float: left;
+}
+.fxq-clear{
+    clear: both;
+}
+.fxq-kjy-con .fxq-kjy-t .fxq-kjy-txt{
+    width:6.4rem;
+    border-bottom: 0.01rem dashed #444444;
+    float: right;
+    font-size: 0.24rem;
+}
+.fxq-kjy-list{
+    margin-left:0.4rem;
+    padding-bottom: 0.4rem;
+}
+.fxq-kjy-list .fxq-kjy-one{
+    height:0.56rem;
+    margin-top: 0.2rem;
+}
+.fxq-kjy-list .fxq-kjy-one img{
+    width:0.56rem;
+    height:0.56rem;
+    vertical-align: middle;
+    float: left;
+}
+.fxq-kjy-list .fxq-kjy-one .fxq-kjy-onet{
+    float: left;
+    margin-left: 0.2rem;
+}
+.fxq-kjy-list .fxq-kjy-one .fxq-kjy-onet .fxq-kjy-onet1{
+    font-size: 0.24rem;
+    color: #01b5ff;
+}
+.fxq-kjy-list .fxq-kjy-one .fxq-kjy-onet .fxq-kjy-onet2{
+    font-size: 0.2rem;
+    color: #3e3a39;
+}
+.fxq-jyxy-box{
+    width:6.62rem;
+    margin:0 auto;
+    height:0.5rem;
+}
+.fxq-jyxy-box .fxq-jyxy-left{
+    width:0.24rem;
+    height:3.4rem;
+    background: url("../images/c.png") center/100% 100%;
+    float: left;
+    margin-top: 0.78rem;
+    margin-bottom:0.15rem;
+}
+.fxq-jyxy-list{
+    width:6.38rem;
+    float: left;
+    font-size: 0.24rem;
+}
+.fxq-jyxy-tt1{
+    width:25%;
+    color: #000;
+}
+.fxq-jyxy-tt2{
+    width:35%;
+    color: #000;
+}
+.fxq-jyxy-tt3{
+    width:40%;
+    color: #000;
+}
+.fxq-jyxy-one{
+    height:0.70rem;
+    line-height: 0.75rem;
+    display: flex;
+    justify-content:space-around;
+    color: #666;
+}
+.fxq-clear{
+    clear: both;
+}
+
+
+/*最后一块*/
+.hgl-kcap{
+    width:7.02rem;
+    height: 4.3rem;
+    background: #fff;
+    position: relative;
+    font-family: "微软雅黑";
+}
+.hgl-yuan{
+    border-radius: 50%;
+    background:#00A0E9;
+    position: absolute;
+    font-size: 0.2rem;
+    color: #fff;   
+    text-align: center;
+}
+.hgl-rjjj{
+    width:1.08rem;
+    height:1.08rem;
+    line-height: 1.08rem;
+    left: 0.95rem;
+    top:0.34rem;
+}
+.hgl-wyjmsj{
+    width:1.57rem;
+    height:1.57rem;
+    line-height: 1.57rem;
+    left:2.68rem;
+    top:0.4rem;
+}
+.hgl-h5{
+    width:1.11rem;
+    height:1.11rem;
+    line-height: 1.11rem;
+    left:4.9rem;
+    top:0.35rem;
+}
+.hgl-mssj{
+    width:0.88rem;
+    height:0.88rem;
+    line-height: 0.88rem;
+    left:1.76rem;
+    top:1.25rem;
+}
+.hgl-angular{
+    width:1.23rem;
+    height:1.23rem;
+    line-height: 1.23rem;
+    left:5.62rem;
+    top:1.4rem;
+}
+.hgl-java{
+    width:1.38rem;
+    height:1.38rem;
+    line-height: 1.38rem;
+    left:0.35rem;
+    top:1.45rem;
+}
+.hgl-hc{
+    width:1.23rem;
+    height:1.23rem;
+    line-height: 1.23rem;
+    left:1.7rem;
+    top:2.15rem;
+}
+.hgl-c{
+    width:0.9rem;
+    height:0.9rem;
+    line-height: 0.9rem;
+    left:0.82rem;
+    top:2.98rem;
+}
+.hgl-8{
+    width:1.41rem;
+    height:1.41rem;
+    line-height: 1.41rem;
+    left:2.94rem;
+    top:2.2rem;
+}
+.hgl-boot1{
+    width:1.23rem;
+    height:1.23rem;
+    line-height: 1.23rem;
+    left:4.16rem;
+    top:1.38rem;
+}
+.hgl-boot2{
+    width:1.39rem;
+    height:1.39rem;
+    line-height: 1.39rem;
+    left:4.48rem;
+    top:2.68rem;
+}
+
